@@ -1,1 +1,3 @@
-# calculator_issi_io_lab2
+# Calculator
+## Coverage
+Raport z Coverage znajduje się w pliku coverage.txt.
